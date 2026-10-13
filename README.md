@@ -6,7 +6,6 @@
 A small starter web project used to practice the main Git and GitHub workflow: commits, branches, merging and syncing with a remote repository.
 
 ## Technologies
-Ihssane Was here 
 - HTML
 - CSS
 - JavaScript
@@ -14,7 +13,6 @@ Ihssane Was here
 - Markdown
 
 ## Get the project
-Hello kitty can code ^_^
 ```bash
 git clone https://github.com/Vpollyon999/git-session1-Vpollyon999.git
 ```
